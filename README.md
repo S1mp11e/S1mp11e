@@ -5,11 +5,11 @@
 
 Hi~ Welcome to my workspace!
 
-- 🔭 I’m currently working on cyber security
+- 🔭 I’m currently working on FAFU（Fujian Agriculture and Forestry University
 - 🌱 I’m currently learning penetration testing
-- 👯 I’m looking to collaborate on FAFU（Fujian Agriculture and Forestry University）
+- 👯 I’m looking to collaborate on cyber security
 - 🤔 I’m looking for help with ROS2 development
 - 💬 Ask me about how to self-learning
 - 📫 How to reach me: zyh789335@163.com
 - 😄 Pronouns: The early birds catches the worm.
-- ⚡ Fun fact: Get the procision of postgratuate studies.
+- ⚡ Fun fact: Get the admission of postgratuate studies.
