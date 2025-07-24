@@ -3,13 +3,13 @@
 
 **S1mp11e/S1mp11e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi~ Welcome to my workspace!
 
 - 🔭 I’m currently working on cyber security
 - 🌱 I’m currently learning penetration testing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on FAFU（Fujian Agriculture and Forestry University）
+- 🤔 I’m looking for help with ROS2 development
+- 💬 Ask me about how to self-learning
+- 📫 How to reach me: zyh789335@163.com
+- 😄 Pronouns: The early birds catches the worm.
+- ⚡ Fun fact: Get the procision of postgratuate studies.
